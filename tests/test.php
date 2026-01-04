@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../src/LZYCodec.php';
+require_once __DIR__ . '/../src/lzy.php';
 
 use LZYCodec\LZY;
 

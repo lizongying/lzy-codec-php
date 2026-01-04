@@ -27,11 +27,11 @@ php tests/test.php
 ```
 
 ## Examples
-
+src/example.php
 ```php
 <?php
 
-require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 use LZYCodec\LZY;
 
