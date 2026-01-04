@@ -1,0 +1,22 @@
+{
+  "name": "lizongying/lzy-codec",
+  "description": "一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。",
+  "keywords": ["lzy", "lzy-codec", "lzy codec", "unicode", "utf-8"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Li ZongYing",
+      "email": "lizongying@msn.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "LZYCodec\\": "src/"
+    }
+  }
+}
