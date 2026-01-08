@@ -7,12 +7,21 @@ php實現。
 
 [composer](https://packagist.org/packages/lizongying/lzy-codec)
 
+更多cli工具請參考 [go](https://github.com/lizongying/lzy-codec-go)
+
 ## Other languages
 
 * [go](https://github.com/lizongying/lzy-codec-go)
-* [py](https://github.com/lizongying/lzy-codec-py)
 * [js](https://github.com/lizongying/lzy-codec-js)
 * [c](https://github.com/lizongying/lzy-codec-c)
+* [dotnet](https://github.com/lizongying/lzy-codec-dotnet)
+* [rust](https://github.com/lizongying/lzy-codec-rs)
+* [python](https://github.com/lizongying/lzy-codec-py)
+* [dart](https://github.com/lizongying/lzy-codec-dart)
+* [swift](https://github.com/lizongying/lzy-codec-swift)
+* [kt](https://github.com/lizongying/lzy-codec-kt)
+* [ruby](https://github.com/lizongying/lzy-codec-rb)
+* [wasm](https://github.com/lizongying/lzy-codec-wasm)
 
 ## Install
 
@@ -27,7 +36,9 @@ php tests/test.php
 ```
 
 ## Examples
+
 src/example.php
+
 ```php
 <?php
 
